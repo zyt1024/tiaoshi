@@ -33,7 +33,7 @@ public class jFileCryptMain {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        System.out.println("测试");
+        System.out.println("测试2222");
         new jFileCryptMain();
     }
 }
